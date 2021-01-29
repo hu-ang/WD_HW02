@@ -32,7 +32,9 @@ Yes
 
 
 9. Which parts of this assignment did you have trouble with, if any?
-Just figuring out how to approach the calculator problem? I would have spent a lot more time wasted fighting for one approach before talking it out with my roommate and finding a different solution.
+Just figuring out how to approach the calculator problem? I would have
+spent a lot more time wasted fighting for one approach before talking 
+it out with my roommate and finding a different solution.
 
 
 
