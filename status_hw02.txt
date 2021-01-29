@@ -1,0 +1,48 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Angela Hu
+
+2. What hostname did you deploy to?
+hw02.xiaohulaoer.com
+
+3. What's the link to your repository on github with your code?
+https://github.com/hu-ang/WD_HW02
+
+4. How many HTML / CSS tutorial exercises did you do?
+Almost all the HTML ones, but then I was taking too much time and did
+like maybe ~50% of the remaining ones? I think skimming through and 
+seeing the available functionality that might come in handy later was good.
+
+5. How comfortable do you feel with HTML and CSS now?
+Decently? I think I would still have a tab open to search for 
+attributes though.
+
+
+6. How many JS tutorial exercises did you do?
+~50%
+
+7. How comfortable do you feel with JS now?
+There's still a lot to learn  I feel? Also I definitely would go through the tutorial a bit more.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+Yes
+
+
+9. Which parts of this assignment did you have trouble with, if any?
+Just figuring out how to approach the calculator problem? I would have spent a lot more time wasted fighting for one approach before talking it out with my roommate and finding a different solution.
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
